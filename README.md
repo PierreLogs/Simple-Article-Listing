@@ -44,26 +44,25 @@
 
 I learned how to use flexbox to create a responsive layout.
 
-```css
 ### Useful resources
+
 - [Flexbox Layout Module](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Built with
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
 ## Features
+
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
 ## Acknowledgements
+
 - [Flexbox Layout Module](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Author
 
 - Website [Simple Article Listing](https://pierrelogs.github.io/Simple-Article-Listing/)
 - GitHub [@PierreLogs](https://github.com/PierreLogs)
-```
